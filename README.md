@@ -1,16 +1,16 @@
-## Hi there 👋
+### Hey, I'm novarx607 👋
 
-<!--
-**novarx607/novarx607** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software engineer based in London. Mostly focused on low-level systems, memory safety, and performance tooling.
 
-Here are some ideas to get you started:
+#### What I'm up to
+- 🦀 Writing systems tools and parsers in Rust
+- 🌐 Porting legacy C utilities to WebAssembly
+- 🐧 Experimenting with Linux kernel modules and eBPF
+- 📖 Reading up on distributed consensus and OS internals
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Daily Drivers
+`Rust` `C` `Linux` `Git` `WebAssembly` `Neovim` `Make` `Docker`
+
+#### Find me
+- Email: novarx607@proton.me
+- Site: novarx607.dev
